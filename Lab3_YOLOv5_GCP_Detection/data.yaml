@@ -1,0 +1,6 @@
+train: yolo-dataset/images/train
+val: yolo-dataset/images/val
+test: yolo-dataset/images/test
+nc: 1
+names:
+- GCP
